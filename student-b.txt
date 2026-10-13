@@ -1,0 +1,5 @@
+Git Practice Lab
+
+Student: SelmanBurak
+
+My contribution: I am practicing Git commits, branches, and team collaboration.
